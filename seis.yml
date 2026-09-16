@@ -1,0 +1,11 @@
+name: seis
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - geopy
+  - pandas
+  - pygmt
+  - numpy
+  - obspy
+  - scipy
